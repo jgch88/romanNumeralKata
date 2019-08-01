@@ -2,16 +2,6 @@ package com.company;
 
 import java.util.*;
 
-class Range{
-    int lowerBound;
-    int upperBound;
-
-    Range(){}
-    Range(int lowerBound, int upperBound){
-        this.lowerBound =lowerBound;
-        this.upperBound = upperBound;
-    }
-}
 public class RomanNumeral {
 
     public static String convertArabicToRomanNumeral(int arabic){

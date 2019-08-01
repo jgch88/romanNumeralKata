@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c48a6de-efc9-4ab2-ad7e-428a0f8060ee" name="Default Changelist" comment="" />
+    <list default="true" id="7c48a6de-efc9-4ab2-ad7e-428a0f8060ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/RomanNumeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/RomanNumeral.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OiHjQRJ9fWfnDLYWZirQQyIwC8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -135,9 +138,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RomanNumeralTest" />
+        <item itemvalue="JUnit.RomanNumeralTest.TestConvert1ShouldReturnI" />
         <item itemvalue="JUnit.RomanNumeralTest.TestConvert2ShouldReturnII" />
         <item itemvalue="JUnit.RomanNumeralTest.TestConvert10ShouldReturnX" />
-        <item itemvalue="JUnit.RomanNumeralTest.TestConvert1ShouldReturnI" />
         <item itemvalue="JUnit.RomanNumeralTest.TestConvertsNumbersCorrectly" />
       </list>
     </recent_temporary>
@@ -159,23 +162,35 @@
       <workItem from="1564574767234" duration="980000" />
       <workItem from="1564585424955" duration="598000" />
       <workItem from="1564622486169" duration="415000" />
+      <workItem from="1564645254610" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/RomanNumeral.java</url>
-          <line>53</line>
+          <line>43</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/RomanNumeral.java</url>
-          <line>41</line>
+          <line>31</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
